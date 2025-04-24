@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     
 # Convert an Image to PDF
 <!--Remove the below lines and add yours -->
@@ -28,3 +29,6 @@ The `img2pdf` is an external Python module which enables you to convert a JPG im
 ## *Author Name*
 <!--Remove the below lines and add yours -->
 [Gaodong](https://github.com/xlgd)
+=======
+# Convert_a_image_to_pdf
+>>>>>>> c2f55dd2cbbb7d5a5845358e9da2a6543cca1e42
